@@ -3,14 +3,14 @@
 	height:30px;
 	width:30px;
 	background-color:red;
-	margin:20px;
-	padding:20px;
+	padding:10px;
+	
 }
-.box
+.holder
 {
 	display:flex;
 	flex-direction:row;
    flex-wrap:wrap;
-	justify-content:space-evenly;
+	justify-content:space-between;
 }
 /* Your CSS Code here. */
