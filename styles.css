@@ -1,2 +1,16 @@
-
+.item
+{
+	height:30px;
+	width:30px;
+	background-color:red;
+	margin:20px;
+	padding:20px;
+}
+.box
+{
+	display:flex;
+	flex-direction:row;
+   flex-wrap:wrap;
+	justify-content:space-evenly;
+}
 /* Your CSS Code here. */
